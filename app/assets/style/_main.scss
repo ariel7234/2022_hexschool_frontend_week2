@@ -1,0 +1,65 @@
+.banner {
+  background-image: url('../images/banner.png');
+  background-size: cover;
+  background-position: center;
+  color: $white;
+  padding: 308px 0;
+  p {
+    font-weight: bold;
+  }
+}
+.links {
+  height: 60px;
+}
+.about {
+  font-weight: bold;
+  padding: 56px 0;
+  hr {
+    max-width: 384px;
+    margin-top: 24px;
+  }
+  li {
+    margin-top: 28px;
+  }
+}
+
+.brand {
+  background-color: $black;
+  color: $white;
+  padding-top: 56px;
+  padding-bottom: 120px;
+}
+.brand-img {
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 68px;
+  li {
+    max-width: 792px;
+    margin-bottom: 40px;
+  }
+}
+.works {
+  padding-top: 56px;
+  padding-bottom: 104px;
+  ul {
+    margin-top: 56px;
+  }
+  li {
+    margin-bottom: 48px;
+  }
+  img {
+    margin-bottom: 16px;
+  }
+}
+
+.footer {
+  padding: 64px 0;
+  background-color: $black;
+  color: $white;
+}
+
+.contact {
+  max-width: 315px;
+  margin: 0 auto;
+  text-align: center;
+}
