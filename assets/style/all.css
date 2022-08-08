@@ -120,7 +120,7 @@ p {
   margin-right: 16px; }
 
 .banner {
-  background-image: url("/assets/images/banner.png");
+  background-image: url("https://github.com/ariel7234/2022_hexshcool_frontend_week2/blob/main/assets/images/banner.png?raw=true");
   background-size: cover;
   background-position: center;
   color: #ffffff;
